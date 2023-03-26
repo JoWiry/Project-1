@@ -31,5 +31,6 @@
 * ### matplotlib
 
 ## **Ссылки на данные**
+* ### [Графики в plotly](https://nbviewer.org/github/JoWiry/Project-1/tree/master/html_plots/)
 
 
