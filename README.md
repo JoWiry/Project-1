@@ -32,5 +32,7 @@
 
 ## **Ссылки на данные**
 * ### [Графики в plotly](https://nbviewer.org/github/JoWiry/Project-1/tree/master/html_plots/)
+* ### [Данные поиска вакансий](https://drive.google.com/file/d/1tE8n6kqonbR4Nk1yqNoHac5JRweNVf4P/view?usp=share_link)
+* ### [Данные валют](https://drive.google.com/file/d/10Mbak3tIdZCKXN6csX4LTHAZEzeDM6QP/view?usp=share_link)
 
 
